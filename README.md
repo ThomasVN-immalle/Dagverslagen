@@ -1,3 +1,5 @@
+![logoTCOG](images/TCOGlogo.jfif)
+
 # Dagverslagen
 
 * [Dag 1  2021-10-04](#2021-10-04)
