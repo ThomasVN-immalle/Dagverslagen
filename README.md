@@ -5,6 +5,7 @@
 * [Dag 1  2021-10-04](#2021-10-04)
 * [Dag 2  2021-10-05](#2021-10-05)
 * [Dag 3  2021-10-06](#2021-10-06)
+* [Dag 4  2021-10-07](#2021-10-07)
 
 ## 2021-10-04
 
@@ -28,6 +29,16 @@ We zijn ook nog gaan kijken naaar de administratie naar hun taken.
 ## 2021-10-06
 
 <br>
-We hebben vandaag heel veel informatie gekregen. in de voormiddag zijn we naar de marketing afdeling gaan kijken naar hun taken en fotos gaan nemen rond het bedrijf voor de fotoreportage van frans. daarna hebben we een meeting mogen meevolgen over azure en de beveiliging van het bedrijf. in de namiddag hebben we een hele tijd samen gezeten met een programeur die een voor een klant was aan het programmeren. tijdens het programeren legde hij alles uit en ook de denkwijze die hij gebruikt voor tot op de code te komen, dit was heel interresant want we konden zien hoe het programeren werd gebruikt als echt een opdracht van een klant moest gedaan worden. Dit gebeurde allemaal in Visual studio code en ook in een container waar virtuele machines in staan zodat je de code kan testen of het werkt.
+we hebben vandaag heel veel informatie gekregen. in de voormiddag zijn we naar de marketing afdeling gaan kijken naar hun taken en fotos gaan nemen rond het bedrijf voor de fotoreportage van frans. daarna hebben we een meeting mogen meevolgen over azure en de beveiliging van het bedrijf. in de namiddag hebben we een hele tijd samen gezeten met een programeur die een voor een klant was aan het programmeren. tijdens het programeren legde hij alles uit en ook de denkwijze die hij gebruikt voor tot op de code te komen, dit was heel interresant want we konden zien hoe het programeren werd gebruikt als echt een opdracht van een klant moest gedaan worden. Dit gebeurde allemaal in Visual studio code en ook in een container waar virtuele machines in staan zodat je de code kan testen of het werkt.
 
 ![fotodag3](images/fotoDAG3.jpg)
+<hr>
+
+## 2021-10-07
+
+<br>
+We hebben vandaag in de voormiddag aan de helpdesk gezeten en meegeluisterd met binnenkomende cases. in de namiddag hebben we informatie gekregen over de programatie achter een scanner die ze in een magazijn gebruiken. We hebben gezien hoe ze dit programeren en in welke taal ze dit doen.
+daarna mochten we een maandelijks meeting meevolgen en zijn we een kijkje gaan nemen in de server ruimte, deze is maar klein aangezien ze bezig zijn met zo veel mogelijk op de cloud te zetten.
+
+![fotoserever](images/fotoserver.jpg)
+<hr>
