@@ -50,5 +50,5 @@ daarna mochten we een maandelijks meeting meevolgen en zijn we een kijkje gaan n
 
 We zijn vandaag begonnen met een klein cadeautje te geven aan de medewerkers voor hen te bedanken voor de fantastis leerijke en toffe stage. Daarna hebben we een samenvatting van DevOps laten nakijken door de persoon die de uitleg had gegeven en hij heeft nog extra info gegeven. Voor de rest van de dag hebben we de technical consultant / interne IT gezeten. Hij heeft powershell en zijn werk uitgebreid uitgelegd en dit was heel interresant hoe hij ook de servers beheert.
 
-![fotodag8](images/foto8.jpg)
+![fotodag8](images/Foto8.jpg)
 
