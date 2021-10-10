@@ -11,7 +11,7 @@
 ## 2021-10-04
 
 <br>
-Vandaag heb ik kennis gemaakt met de werknemers en hun functie, een rondleiding gekregen. Ik heb ook de hele dag bij de helpdesk gezeten en mee gevolgd met de cases en de Issues van acco (een grote winkel voor studenteboeken). Ik heb ook informatie gekregen over de software die in de onderneming gebruikt wordt. We hebben ook gekeken naar een kassa van de aveve en de software erachter samen met een consultant van aveve.
+Vandaag heb ik kennis gemaakt met de werknemers en hun functie, een rondleiding gekregen. Ik heb ook de hele dag bij de helpdesk gezeten en mee gevolgd met de cases en de Issues van Acco (een grote winkel voor studenteboeken). Ik heb ook informatie gekregen over de software die in de onderneming gebruikt wordt. We hebben ook gekeken naar een kassa van de aveve en de software erachter samen met een consultant van aveve.
 
 ![dagverslagfoto#1](images/helpdesk.jpg)
 
